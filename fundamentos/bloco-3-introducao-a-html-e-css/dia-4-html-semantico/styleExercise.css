@@ -1,0 +1,46 @@
+*{
+  background-color: powderblue;
+}
+
+header {
+  border: 1px solid;
+  background-color: royalblue;
+}
+
+main{
+  width: 80%;
+  background-color: white;
+}
+
+#cabecalho {
+  margin-left: 3%;
+  background-color: royalblue;
+}
+.menu {
+  background-color: royalblue;
+}
+
+.menu li{
+  display: inline-block;
+  width: 200px;
+  text-align: center;
+  border: 1px solid palegoldenrod;
+  background-color: royalblue;
+}
+
+h3, h4 {
+  margin: 0;
+  padding: 0;
+}
+
+h4 {
+  margin-left: 10px;
+}
+
+.principal , .principal h3, .principal p {
+  margin-top: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+  border: 1px solid white;
+  background-color: white;
+}
