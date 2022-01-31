@@ -1,0 +1,64 @@
+ol li {
+  background-color: yellow;
+}
+
+ol li:nth-child(even) /* li:nth-child(even) = elementos de posição numerica par */ { 
+  background-color: green;
+}
+
+ol li:nth-child(odd) /* li:nth-child(odd) = elementos de posição numerica impar */ { 
+  text-transform:uppercase;
+}
+
+.titulo {
+  color: red
+}
+
+.titulo em {
+  font-size: 40px;
+  border: 1px solid black;
+}
+
+li {
+  font-size: 20px;
+}
+
+li em {
+  font-weight: bold;
+}
+
+ul.linguagem li:nth-child(-n+3) {
+  color: blue;
+}
+
+.rosa {
+  background-color: pink;
+}
+
+.stack a:hover{
+  color: orange;
+  font-weight: bold;
+}
+
+.w3s a:hover {
+  color: green;
+  font-weight: bold;
+}
+
+
+.mdn a:hover {
+  color: rgb(29, 17, 17);
+  font-weight: bold;
+}
+
+
+.devd a:hover {
+  color: yellow;
+  font-weight: bold;
+}
+
+
+.trybe a:hover {
+  color: rgb(43, 156, 43);
+  font-weight: bold;
+}
