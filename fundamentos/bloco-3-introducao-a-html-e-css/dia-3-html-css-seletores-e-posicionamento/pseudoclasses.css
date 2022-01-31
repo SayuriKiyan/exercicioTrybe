@@ -1,0 +1,44 @@
+div:hover {
+  /* background-color: red; */
+  border: 1px solid black;
+}
+
+#primaria {
+  background-color: orange;
+  color: red;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 25px;
+}
+
+#secundaria {
+  background-color: orangered;
+  color: orange;
+  font-family: 'Comforter', cursive;
+  font-size: 25px;
+}
+
+#complementar {
+  background-color: #420c09;
+  color: orangered;
+  font-family: 'Indie Flower', cursive;
+  font-size: 45px;
+}
+
+#escura {
+  background-color: salmon;
+  color: #420c09;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 25px;
+}
+
+#clara {
+  background-color: red;
+  color: salmon;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 25px;
+}
+
+
+h3 {
+  font-style: italic;
+}
