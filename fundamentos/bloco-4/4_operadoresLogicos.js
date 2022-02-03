@@ -1,4 +1,6 @@
-const currentHour = 16;
+console.log(!(2 + 2) === 5);
+
+/*const currentHour = 16;
 let message;
 
 if (currentHour >= 22) {
@@ -16,7 +18,7 @@ else if (currentHour >= 11 && currentHour < 14) {
 else {
   console.log(message = 'Hmmm, cheiro de caférecém passado.');
 }
-
+*/
 
 /*
 const cenouras = true;
